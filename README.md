@@ -1,2 +1,24 @@
-# blockchain-forensics-lab
-On-chain investigation and migration-readiness portfolio — tracing, SQL analysis, case writeups, and forensics tooling. Built over 6 months, oriented toward leading back/middle-office-to-blockchain migrations.
+- Blockchain Forensics Lab
+- A 6-month hands-on portfolio of blockchain forensic investigations built using public on-chain data, open-source tools, and browser-based analytics.
+- ## 👨‍💻 About
+- Transitioning professional building skills in on-chain investigation, UTXO and account-based chain analysis, DeFi tracing, cross-chain forensics, and crypto compliance. All work uses public data only.
+- ## 📂 Repository Structure
+- - `/writeups` — Case writeups and investigation reports
+- - `/sql` — Dune Analytics SQL queries
+- - `/graphs` — Transaction graph visualizations
+- - `/cases` — Mini-case files and evidence notes
+- - `/notes` — Study notes and concept summaries
+- - `/tools` — Tool maps and workflow documentation
+- ## 🛠️ Tools & Platforms
+- Etherscan · mempool.space · Blockchair · Dune Analytics · Solscan · GitHub Codespaces · Gephi
+- ## 📁 Projects
+- | # | Project | Chain | Status |
+- |---|---------|-------|--------|
+- | 1 | How to Read a Transaction Like an Investigator | BTC + ETH | 🔄 In Progress |
+- | 2 | Dune Investigation Dashboard | Multi-chain | 🕛 Planned |
+- | 3 | Open-Source Forensics Toolkit Map | All | 🕛 Planned |
+- | 4 | Address-Tracing Mini-Case | ETH | 🕛 Planned |
+- | 5 | Cross-Chain Bridge Case Study | ETH + L2 | 🕛 Planned |
+- | 6 | Professional Investigation Memo | Multi-chain | 🕛 Planned |
+- ## 📃 Target Credentials
+- - Chainalysis Certified Investigator (planned Month 5)
